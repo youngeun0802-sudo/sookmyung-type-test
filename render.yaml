@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: sookmyung-type-test
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
